@@ -14,3 +14,6 @@ APE
 And also one tag read library
 
 And possibly ISO reader
+
+NOTE: drogatkin.util.mediaio package is removed from tiny-codec project so that
+the project dosen't depend on FLAC library. 
